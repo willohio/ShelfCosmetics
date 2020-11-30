@@ -2,7 +2,7 @@
 //  NotificationsVC.swift
 //  Shelf
 //
-//  Created by Nathan Konrad on 07/05/15.
+//  Created by William Santiago on 07/05/15.
 //  Copyright (c) 2015 Shelf. All rights reserved.
 //
 

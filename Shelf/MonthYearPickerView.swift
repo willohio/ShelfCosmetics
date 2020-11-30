@@ -1,7 +1,7 @@
 //
 //  MonthYearPicker.swift
 //
-//  Created by Nathan Konrad on 15/04/2015.
+//  Created by William Santiago on 15/04/2015.
 //
 
 import UIKit
